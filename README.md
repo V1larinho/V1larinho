@@ -76,7 +76,7 @@ Master's student in Computer Engineering (UTAD), interested in software engineer
 **[Imperialis Serenatum Tunix](https://github.com/V1larinho/imperialis-serenatum-tunix)** — Site institucional para tuna académica
 
 ---
-
+<!--
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -93,7 +93,7 @@ Master's student in Computer Engineering (UTAD), interested in software engineer
 </p>
 
 ---
-
+-->
 Contactos:
 
 <p align="left">

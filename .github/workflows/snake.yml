@@ -17,8 +17,7 @@ jobs:
         with:
           github_user_name: V1larinho
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#e10600&color_dots=#0d1117,#1a1a1a,#333333,#666666,#e10600
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

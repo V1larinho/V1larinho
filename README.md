@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/egMWwN2p0AoAAAAC/lando-norris.gif" width="300" />
-</p>
+### Hi, I'm Gonçalo 👋
 
 ---
 
-### Olá, sou o Gonçalo 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+space!;Master's+Student+in+Computer+Engineering;Frontend+enthusiast+%26+developer;Always+learning+and+building+new+things" alt="Typing SVG" />
+  </a>
+</p>
 
-Estudante de Mestrado em Engenharia Informática (UTAD), com interesse em engenharia de software, arquitetura de sistemas, cibersegurança e computação em cloud.
 
-- 🎓 Licenciado em Engenharia Informática — UTAD, Vila Real
-- 🔭 Atualmente a estudar Mestrado em Engenharia Informática
-- 🌱 A aprofundar conhecimentos em React, Next.js e arquitetura de sistemas
-- 👯 Aberto a colaborar em projetos de desenvolvimento web
-- 💬 Podes perguntar-me sobre HTML/CSS, JavaScript, React, Next.js, Java ou SQL
-- ⚡ Fun fact: também sou membro da Imperialis Serenatum Tunix, tuna académica da UTAD
-- 🌐 Portefólio: [vilarinho-ixzrjy8r9-v1larinhos-projects.vercel.app](https://vilarinho-ixzrjy8r9-v1larinhos-projects.vercel.app)
+<p align="center">
+  <img src="https://media1.tenor.com/m/egMWwN2p0AoAAAAC/lando-norris.gif" width="300" />
+</p>
 
 <!-- 🐺  GIF DO THE WITCHER -->
 <!-- Exemplo: <p align="center"><img src="COLA_LINK_AQUI.gif" width="300"/></p> -->
@@ -27,8 +24,6 @@ Estudante de Mestrado em Engenharia Informática (UTAD), com interesse em engenh
 
 ---
 
-### Hi, I'm Gonçalo 👋
-
 Master's student in Computer Engineering (UTAD), interested in software engineering, systems architecture, cybersecurity and cloud computing.
 
 - 🎓 Bachelor's degree in Computer Engineering — UTAD, Vila Real
@@ -37,7 +32,7 @@ Master's student in Computer Engineering (UTAD), interested in software engineer
 - 👯 Open to collaborating on web development projects
 - 💬 Ask me about HTML/CSS, JavaScript, React, Next.js, Java or SQL
 - ⚡ Fun fact: I'm also a member of Imperialis Serenatum Tunix, UTAD's academic music group
-- 🌐 Portfolio: [vilarinho-ixzrjy8r9-v1larinhos-projects.vercel.app](https://vilarinho-ixzrjy8r9-v1larinhos-projects.vercel.app)
+- 🌐 Portfolio: [vilarinh0.com](https://vilarinh0.vercel.app)
 
 ---
 <!--
@@ -76,11 +71,11 @@ Master's student in Computer Engineering (UTAD), interested in software engineer
 **[Imperialis Serenatum Tunix](https://github.com/V1larinho/imperialis-serenatum-tunix)** — Site institucional para tuna académica
 
 ---
-<!--
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V1larinho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600&text_color=c9d1d9" width="65%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V1larinho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFFF&icon_color=FFFF&text_color=c9d1d9" width="65%" />
 </p>
 
 
@@ -93,11 +88,12 @@ Master's student in Computer Engineering (UTAD), interested in software engineer
 </p>
 
 ---
--->
+
 Contactos:
 
 <p align="left">
   <img src="https://media1.tenor.com/m/gZa5BGgthIwAAAAC/bwoah-kimi-raikkonen.gif" width="200" /> 
 </p>
 
-📫 vilarinho.goncalo.04@gmail.com · [Instagram](https://www.instagram.com/)
+📫 vilarinho.goncalo.04@gmail.com 
+-  [vgoncalo](https://www.instagram.com/)
